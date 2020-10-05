@@ -1,0 +1,24 @@
+{
+    "name": "mongotools",
+    "version": "1.0.0",
+    "description": "mongoDB used tools",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/teana0953/mongotools.git"
+    },
+    "keywords": [
+        "mongoDB",
+        "backup",
+        "restore"
+    ],
+    "author": "Tina.Liang",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/teana0953/mongotools/issues"
+    },
+    "homepage": "https://github.com/teana0953/mongotools#readme"
+}
